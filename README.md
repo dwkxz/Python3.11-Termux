@@ -6,6 +6,7 @@ Tải và sử dụng Termux phiên bản bên dưới để tránh sảy ra l�
 Tải các gói cơ bản và cài đặt **Pyhon3.11**.
 ```
 pkg update -y
+pkg upgrade -y
 pkg ins tur-repo -y
 pkg ins python3.11 -y
 pkg ins python-pip -y
