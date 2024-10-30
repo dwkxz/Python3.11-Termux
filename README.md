@@ -4,4 +4,9 @@
 **2. Chạy Lệnh Phía Bên Dưới:**
 ```
 pkg ins wget -y
+wget https://raw.githubusercontent.com/dwkxz/Python3.11-Termux/refs/heads/main/ins.sh
+chmod +x ins.sh
+./ins.sh
+wget https://raw.githubusercontent.com/dwkxz/Python3.11-Termux/refs/heads/main/install-pip.py
+python install-pip.py
 ```
